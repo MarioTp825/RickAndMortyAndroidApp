@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">InterviewTest</string>
+
+    <!--Titles-->
+    <string name="error_title">Unexpected Error!!!</string>
+
+    <!--Labels-->
+    <string name="loading_label">Loading data…</string>
+    <string name="content_error_label">Loading data…</string>
+
+    <string name="character_label_name">Name: </string>
+    <string name="character_label_created">Created: </string>
+    <string name="character_label_gender">Gender: </string>
+    <string name="character_label_species">Species: </string>
+    <string name="character_label_status">Status: </string>
+    <string name="character_label_location">Current Location: </string>
+    <string name="character_label_origin">Origin: </string>
+
+    <string name="episode_label_created">Created: </string>
+    <string name="episode_label_air_date">Air Date: </string>
+
+    <!--Text-->
+    <string name="character_text_status_disease">Disease</string>
+    <string name="character_text_status_alive">Alive</string>
+
+
+    <!--Descriptions-->
+    <string name="loading_desc">Morty Running Loading Icon</string>
+    <string name="favorite_desc">Add To favorites</string>
+    <string name="favorite_remove_desc">Remove from favorites</string>
+    <string name="character_image_desc">Character\'s picture</string>
+</resources>
