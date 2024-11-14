@@ -63,6 +63,8 @@ class MainActivity : ComponentActivity() {
                                 )
                             }
                         }
+
+                        /* TODO Add Favorites route for bottom navigation bar */
                     }
 
                 }
